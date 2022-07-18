@@ -1,0 +1,1732 @@
+{
+    " interestRateTerm ": 2,
+    " interestRateTermMult ": " Y "
+}, {
+    " interestRate ": 5.351,
+    " interestRateTerm ": 3,
+    " interestRateTermMult ": " Y "
+}, {
+    " interestRate ": 6.221,
+    " interestRateTerm ": 5,
+    " interestRateTermMult ": " Y "
+}, {
+    " interestRate ": 6.46,
+    " interestRateTerm ": 7,
+    " interestRateTermMult ": " Y "
+}, {
+    " interestRate ": 6.896,
+    " interestRateTerm ": 10,
+    " interestRateTermMult ": " Y "
+}, {
+    " interestRate ": 7.543,
+    " interestRateTerm ": 20,
+    " interestRateTermMult ": " Y "
+}, {
+    " interestRate ": 8,
+    " interestRateTerm ": 30,
+    " interestRateTermMult ": " Y "
+}
+], " bucketNum ": 166
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 167
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 168
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 169
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 170
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 171
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 172
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 173
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 174
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 175
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 176
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 177
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 178
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 179
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 180
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 181
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 182
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 183
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 184
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 185
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 186
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 187
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 188
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 189
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 190
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 191
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 192
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 193
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 194
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 195
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 196
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 197
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
+            " interestRateTerm ": 10,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 7.543,
+            " interestRateTerm ": 20,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 8,
+            " interestRateTerm ": 30,
+            " interestRateTermMult ": " Y "
+        }
+    ],
+    " bucketNum ": 198
+}, {
+    " bucketData ": [{
+            " interestRate ": 1.42,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 2.568,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 3.589,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 4.08,
+            " interestRateTerm ": 6,
+            " interestRateTermMult ": " M "
+        }, {
+            " interestRate ": 5.05,
+            " interestRateTerm ": 1,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.213,
+            " interestRateTerm ": 2,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 5.351,
+            " interestRateTerm ": 3,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.221,
+            " interestRateTerm ": 5,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.46,
+            " interestRateTerm ": 7,
+            " interestRateTermMult ": " Y "
+        }, {
+            " interestRate ": 6.896,
